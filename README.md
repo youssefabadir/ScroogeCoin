@@ -1,1 +1,2 @@
 # ScroogeCoin
+simulation for ScroogeCoin
